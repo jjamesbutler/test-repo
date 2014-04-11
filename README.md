@@ -7,8 +7,8 @@ This is a test repo
 
 ###This is a smaller heading.
 
-*This
-*Is
-*A
-*Bulleted
-*List
+* This
+* Is
+* A
+* Bulleted
+* List
